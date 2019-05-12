@@ -14,5 +14,6 @@ print(cv2.__version__)
 
 ## 例子
 * [转灰度图像](gray/main.py)
-
+* [kNN手写数字识别](knn_ocr_digit/main.py)
+* [kNN字母识别](knn_ocr_alphabet/main.py)
 
